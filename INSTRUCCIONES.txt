@@ -1,9 +1,0 @@
-CONFIGURACIÓN EN VERCEL
-
-Framework Preset: Other
-Root Directory: ./
-Build Command: vacío
-Install Command: vacío
-Output Directory: public
-
-Antes de subir, sustituye public/config.js por el config.js que ya contiene tu Project URL y tu clave pública de Supabase.
